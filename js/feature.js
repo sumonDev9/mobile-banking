@@ -11,7 +11,7 @@ document.getElementById("btn_show_cash_out").addEventListener("click", function(
 })
 
 
-// show the add money form
+// show the add money form 
 
 document.getElementById("btn_show_add_money").addEventListener("click", function(){
    // show add money button clicked
