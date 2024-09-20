@@ -24,3 +24,4 @@ document.getElementById("btn_cash_out").addEventListener("click", function(event
         alert("Failed to add money! please try again.")
     }
 })
+

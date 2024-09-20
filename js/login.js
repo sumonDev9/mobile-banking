@@ -17,7 +17,7 @@ document.getElementById("button_login").addEventListener("click", function(event
     if(phoneNumber === "9330542657" && pinNumber === "2000"){
         console.log("you are logged in");
         // step 5:  Replace with your desired page
-        window.location.href = '/home.html'
+        window.location.href = './home.html';
 
     }else{
         alert("worng phone number or pin");
